@@ -1,0 +1,102 @@
+{
+    
+    "ENABLE_Ads":false,
+    "Show_Content":true,
+    
+    // IronSource units
+    
+	"APP_KEY": "fS7776633",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+   // Admob units
+
+	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+	"ADMOB_NATIVE": "ca-app-pub-3940256099942544/2247696110",
+	"ADMOB_OPEN_ADS":"ca-app-pub-3940256099942544/3419835294",
+	 
+	// Applovin units
+
+	"APPLOVIN_BANNER_ID": "086a5330df501860",
+	"APPLOVIN_INTERSTITIAL_ID": "6eced1c4207f23e9",
+	
+	 // Unity units
+	
+	"UNITY_BANNER": "Android_Banner",
+	"UNITY_INTERSTITIAL": "Android_Interstitial",
+	"UNITY_GAME_ID": "3916229",
+	"UNITY_TEST_MODE": false,
+	
+	 // FAN units
+	
+	"FAN_BANNER":"506361824870376_506365561536669",
+	"FAN_INTERSTITIAL":"506361824870376_506955494811009",
+	
+    // 0=admob , 1=Ironsource , 2 =applovin , 3= Unity , 4= facebook
+    
+	"SwitchAds": 4, 
+	"MaxClick": 1, // only for admob 
+	
+	// Quize Settings
+	
+	"Quize_Link":"https://www.google.com/",
+	"ENABLE_Quize_ONBACK":false,
+	"ENABLE_Quize_ONBROWSER":false,
+	"Click_toShow_Quize": 4,
+
+
+
+	"MoreApps": "667733",
+
+	"popAppLink": "https://giftcardway.com/",
+	"popAppName": "Get Free Gift Card",
+	"popAppImage": "https://drive.google.com/uc?export=download&id=1h9ymk0NptNcM6xf6KvICuH_ZAA3Ynr9P",
+	"popAppPackage": "",
+	"popAppIsActive_first": false,
+	"popAppIsActive_browser": false,
+	"Interval_Time":30000, 
+  
+	"isPage1Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
+	"isPage4Activate": false,
+    	//content Page 4
+	"textPage4":"Do You Like Fashion?",
+	"button1Page4":"yes",
+	"button2Page4":"no",
+	"isPage5Activate":false,
+		//content Page 5
+	"textPage5":"choose boy or girl",
+	"button1Page5":"boy",
+	"button2Page5":"girl",
+	
+	"isPage6Activate": false,
+    "isPage7Activate": false,
+		
+
+	
+	
+	
+	//cpa image banner
+    "Visibility_image_cpa":false,
+    "Url_Image_Cpa":"https://www.google.com/",
+    "Image_View_cpa":"https://drive.google.com/uc?export=download&id=1HZSUOA4EQaWyMFcb9UV2IRcHqIDwwJFN",
+
+	"URLs": [
+
+		{
+			"title": "Shoedazzle Shopping",
+			"image": "https://drive.google.com/uc?export=download&id=1Q3miQdq9AB-PYyakyiObjDRPEkvpegEu",
+			"url": "http://"
+		}
+	
+
+	],
+	// update Dialog 
+	"New_Package_Name":"com.outfit7.herodash",
+	"Version_Code": 1,
+	"Description_dialog":"Instaal now new version Les joueurs sautent",
+	"Is_Force":false
+
+}
